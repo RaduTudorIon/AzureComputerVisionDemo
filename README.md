@@ -7,4 +7,3 @@ The word “cognitive” means mental action or process of acquiring in gaining 
 Azure subscription (you can create trial one for free)<br>
 Visual studio (I am using Visual studio 2019, however, it will be same for other versions as well)
 .NET 5.0 (ASP.NET core 5.0)<br>
-Note: I will be doing this tutorial with asp.net core 5.0<br>
